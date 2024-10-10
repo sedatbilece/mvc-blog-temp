@@ -1,0 +1,80 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Entities.Enums
+@using CoreMvcTemplate.Helpers;
+@using System;
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    TempData["Title"] = "Ürünler";
+}
+@model List<Product>
+
+<div class="row p-4">
+    <div class="col-xs-12">
+        <div class="box">
+
+            <div class="d-flex justify-content-between align-items-center width-full">
+                <div class="p-2 d-flex justify-content-between align-items-center">
+                    <div>
+                        <h3 class="box-title">Ürünler </h3>
+                    </div>
+
+                    </div>
+
+                </div>
+                <div class="p-2">
+                    <a asp-controller="AdminProduct" asp-action="Add" style="text-decoration: none;" class="btn btn-sm btn-success">Ekle</a>
+                </div>
+            </div>
+
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    @TempData["Success"]
+                </div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @TempData["Error"]
+                </div>
+            }
+
+            <div class="box-body table-responsive no-padding">
+                <table class="table table-hover">
+                    <tr>
+                        <th>Başlık</th>
+                        <th>Oluşturma Tarihi</th>
+                        <th>Durum</th>
+                        <th>Görüntülenme Sırası</th>
+                        <th>Önizleme</th>
+                        <th>Düzenle</th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Title</td>
+                            <td>@item.CreatedAt</td>
+
+                            @if (item.isActive)
+                            {
+                                <td><span class="text-success">Aktif</span></td>
+                            }
+                            else
+                            {
+                                <td><span class="text-danger">Pasif</span></td>
+                            }
+                             <td>@item.DisplayOrder</td>
+
+                            <td>
+                                <a href="/urunler/@UrlExtension.FriendlyUrl(item.SeoTitle)" target="_blank" class="btn btn-sm btn-info">Önizleme</a>
+                                
+                            </td>
+                            <td>
+                                <a asp-controller="AdminProduct" asp-action="Detail" asp-route-id="@item.Id" style="text-decoration: none;" class="btn btn-sm btn-primary">Düzenle</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,110 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Helpers
+@{
+    Layout = Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<PdfFile>
+
+<div class="row p-4">
+    <div class="col-xs-12">
+        <div class="box">
+
+            <div class="d-flex justify-content-between align-items-center width-full">
+                <div class="p-2 d-flex justify-content-between align-items-center">
+                    <div>
+                        <h3 class="box-title">Pdf Dosyaları </h3>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="p-2">
+                <a asp-controller="PdfViewer" asp-action="Add" style="text-decoration: none;" class="btn btn-sm btn-success">Ekle</a>
+            </div>
+        </div>
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @TempData["Success"]
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        }
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @TempData["Error"]
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        }
+
+        <div class="box-body table-responsive no-padding">
+            <table class="table table-hover">
+                <tr>
+                    <th>Ad</th>
+                    <th>Oluşturma Tarihi</th>
+                    <th>Durum</th>
+                    <th>Görüntülenme Sırası</th>
+                    <th>Linki Kopyala</th>
+                    <th>Önizleme</th>
+                    <th>Sil</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.CreatedAt</td>
+
+                        @if (item.isActive)
+                        {
+                            <td><span class="text-success">Aktif</span></td>
+                        }
+                        else
+                        {
+                            <td><span class="text-danger">Pasif</span></td>
+                        }
+                        <td>@item.DisplayOrder</td>
+                        <td><button class="share-button btn btn-sm btn-dark" data-url="@TempData["CopyUrlHostString"]/dosyalar/@UrlExtension.FriendlyUrl(item.SeoName)">
+                                Kopyala
+                        </button></td>
+
+                        <td>
+                            <a href="/dosyalar/@UrlExtension.FriendlyUrl(item.SeoName)" target="_blank" class="btn btn-sm btn-info">Önizleme</a>
+
+                        </td>
+
+                        <td>
+                            <a  asp-action="Delete" asp-controller="PdfViewer" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Sil</a>
+
+                        </td>
+
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var shareButtons = document.querySelectorAll('.share-button');
+
+        shareButtons.forEach(function(button) {
+            button.addEventListener('click', function(event) {
+                var urlToCopy = event.target.getAttribute('data-url');
+                navigator.clipboard.writeText(urlToCopy).then(function() {
+                    console.log('URL başarıyla kopyalandı:', urlToCopy);
+                    // Burada kullanıcıya bir bildirim gösterebilirsiniz, örneğin:
+                    alert('URL kopyalandı: ' + urlToCopy);
+                }).catch(function(error) {
+                    console.error('URL kopyalanamadı:', error);
+                    alert('URL kopyalanırken bir hata oluştu.');
+                });
+            });
+        });
+    });
+</script>

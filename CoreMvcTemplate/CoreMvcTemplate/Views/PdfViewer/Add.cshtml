@@ -1,0 +1,60 @@
+﻿@using CoreMvcTemplate.Helpers
+@using CoreMvcTemplate.Models.PdfFile
+@{
+    Layout = Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model AddPdfFileViewModel
+
+
+
+<style>
+    .dangerField {
+        color: red;
+    }
+</style>
+
+
+<div class="p-4">
+    <div class="d-flex justify-content-between align-items-center width-full">
+        <div class="p-2">
+            <h3 class="box-title">Pdf Ekle</h3>
+        </div>
+        <div class="p-2">
+        </div>
+    </div>
+
+
+    <form asp-action="Add" asp-controller="PdfViewer" method="post" enctype="multipart/form-data">
+        <div class="box-body">
+
+            <div class="form-group mb-3">
+                <label>Ad <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Name">
+            </div>
+
+
+
+
+            <div class="form-group mb-3">
+                <label>Görüntülenme Sırası</label>
+                <input type="text" class="form-control" asp-for="DisplayOrder">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Pdf Dosyası <span class="dangerField"> * </span></label>
+                <input type="file" class="form-control" id="PdfFile" name="PdfFile">
+            </div>
+
+
+
+
+
+        </div><!-- /.box-body -->
+
+        <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Ekle</button>
+        </div>
+    </form>
+</div>
+
+

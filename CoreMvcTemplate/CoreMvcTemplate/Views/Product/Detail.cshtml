@@ -1,0 +1,41 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Helpers;
+@{
+}
+
+@model Product
+
+<style>
+    .someSpace {
+        margin-top: 10vh !important;
+    }
+</style>
+
+
+<!--===== BLOGLEFT STARTS=======-->
+<div class="blogleft-section-area section-padding5 contact1-section-area">
+    <div class="container mt-2">
+        <div class="row">
+            <div class="col-lg-1"></div>
+            <div class="col-lg-10">
+                <div class="blogleftinner3-area p-0">
+                    <img src="@Model.ImageUrl" alt="" class="w-50 mx-auto innerimg">
+
+                    <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 mt-1">@Model.Title</h1> 
+
+                    @Html.Raw(Model.Content)
+
+                    <div class="border30"></div>
+
+
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!--===== BLOGLEFT  END=======-->

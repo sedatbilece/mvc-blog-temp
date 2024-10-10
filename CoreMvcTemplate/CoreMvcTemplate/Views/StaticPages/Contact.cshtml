@@ -1,0 +1,98 @@
+﻿@using CoreMvcTemplate.Entities
+@model LandingPage
+
+<style>
+    .someSpace {
+        margin-top: 5vh !important;
+    }
+</style>
+
+
+<!--===== Conatact ends=======-->
+<div class="contact1-section-area section-padding5">
+    <img src="~/template/assets/images/elementor/elementor1.png" alt="" class="elementor7">
+    <div class="container someSpace">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="contact1-header text-center margin-b60">
+                    <h1 class="font-lora font-42 lineh-50 weight-500 margin-b24 color34">Daha fazla bilgi almak için  <span class="consult-reason">iletişime</span> geçebilirsiniz</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-12" data-aos="zoom-out" data-aos-duration="1000">
+                <div class="contact-first-boxarea">
+                    <h1 class="font-lora font-24 weight-500 lineh-30 color">İletişim Bilgileri</h1>
+                    <div class="border1 margin-t32"></div>
+                    <div class="contact1-location margin-t32">
+                        <div class="location-icon">
+                            <div class="locaicon1">
+                                <img src="~/template/assets/images/icons/location1.svg" alt="">
+                            </div>
+                            <div class="location-text">
+                                <p class="font-20 font-ks lineh-20 color weight-700 margin-b ">Adresimiz</p>
+                                <a href="#" class="font-16 lineh-26 font-ks weight-500 color">@Model.Address1</a><br>
+                                @if (!string.IsNullOrEmpty(Model.Address2))
+                                {
+                                    <a href="#" class="font-16 lineh-26 font-ks weight-500 color">@Model.Address2</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="contact1-location margin-t40">
+                        <div class="location-icon">
+                            <div class="locaicon1">
+                                <img src="~/template/assets/images/icons/phone1.svg" alt="">
+                            </div>
+                            <div class="location-text">
+                                <p class="font-20 font-ks lineh-20 color weight-700 margin-b">Tefon Numaramız</p>
+                                <a href="tel:@Model.Phone1" class="font-16 lineh-26 font-ks weight-500 color">@Model.Phone1</a> <br>
+                                @if (!string.IsNullOrEmpty(Model.Phone2))
+                                {
+                                    <a href="tel:@Model.Phone2" class="font-16 lineh-26 font-ks weight-500 color">@Model.Phone2</a> <br>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="contact1-location margin-t40">
+                        <div class="location-icon">
+                            <div class="locaicon1">
+                                <img src="~/template/assets/images/icons/email1.svg" alt="">
+                            </div>
+                            <div class="location-text">
+                                <p class="font-20 font-ks lineh-20 color weight-700 margin-b">Mail Adresimiz</p>
+                                <a href="mailto:@Model.Mail1" class="font-16 lineh-26 font-ks weight-500 color">@Model.Mail1</a> <br>
+                                @if (!string.IsNullOrEmpty(Model.Mail2))
+                                {
+                                    <a href="mailto:@Model.Mail2" class="font-16 lineh-26 font-ks weight-500 color">@Model.Mail2</a> <br>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+          
+        </div>
+
+        <div class="map-section-area someSpace">
+            <div class="mapouter">
+                <div class="gmap_canvas">
+
+
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1268.1467019869083!2d29.35319922016483!3d40.88990661019991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cad96460985a17%3A0x2688bfa73c810294!2sSezber%20Teknoloji%20Tuzla%20Merkez%20Ofis!5e0!3m2!1str!2str!4v1722685556916!5m2!1str!2str"
+                            width="1300" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--===== Conatact ends=======-->
+

@@ -1,0 +1,38 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Helpers;
+@{
+   
+}
+@model Blog
+
+
+
+<!--===== BLOGLEFT STARTS=======-->
+<div class="blogleft-section-area section-padding5 contact1-section-area">
+    <div class="container mt-2">
+        <div class="row">
+            <div class="col-lg-1"></div>
+            <div class="col-lg-10">
+                <div class="blogleftinner3-area p-0">
+                    <img src="@Model.HeadImageUrl" alt="" class="w-100 innerimg">
+
+
+
+                    <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 mt-1">@Model.Title</h1> <span>  @Model.CreatedAt.ToString("dd/MM/yyyy")</span>
+
+                    @Html.Raw(Model.Content)
+                  
+                    <div class="border30"></div>
+
+                    
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--===== BLOGLEFT  END=======-->

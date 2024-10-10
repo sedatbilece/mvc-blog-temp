@@ -1,0 +1,88 @@
+﻿@using CoreMvcTemplate.Helpers;
+@using CoreMvcTemplate.Entities.Enums
+@using CoreMvcTemplate.Models.Sliders
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+@model AddSliderViewModel
+
+
+<style>
+    .dangerField {
+        color: red;
+    }
+</style>
+
+<link type="text/css" href="~/ckeditor5/sample/css/sample.css" rel="stylesheet" media="screen" />
+
+<div class="p-4">
+    <div class="d-flex justify-content-between align-items-center width-full">
+        <div class="p-2">
+            <h3 class="box-title">Slider Ekle</h3>
+        </div>
+        <div class="p-2">
+        </div>
+    </div>
+
+
+    <form asp-action="Add" asp-controller="AdminSlider" method="post" enctype="multipart/form-data">
+        <div class="box-body">
+
+            <div class="form-group mb-3">
+                <label>Başlık <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Title1">
+            </div>
+            <div class="form-group mb-3">
+                <label>Alt Başlık </label>
+                <input type="text" class="form-control" asp-for="Title2">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Görüntülenme Sırası</label>
+                <input type="text" class="form-control" asp-for="DisplayOrder">
+            </div>
+
+            <div class="radio">
+                <label>
+                    <input type="radio" asp-for="isActive" id="isActive1" value="true" checked>
+                    Aktif
+
+                </label>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" asp-for="isActive" id="isActive2" value="false">
+                    Pasif
+                </label>
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Slider Görseli <span class="dangerField">* (1500x1500) </span></label>
+                <input type="file" id="ImageFile" name="ImageFile" class="btn btn-dark">
+            </div>
+
+        </div><!-- /.box-body -->
+
+        <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Ekle</button>
+        </div>
+    </form>
+</div>
+<script>
+    document.getElementById('ImageFile').addEventListener('change', function (event) {
+        var file = event.target.files[0];
+        if (file) {
+            var img = new Image();
+            img.onload = function () {
+                var width = img.width;
+                var height = img.height;
+                var size = (file.size / 1024).toFixed(2); // size in KB
+                var type = file.type;
+
+                alert('Yüklenen Görselin Temel Bilgileri \n Boyut: ' + size + ' KB\n En-Boy: ' + width + 'x' + height + '\n Tip: ' + type );
+            };
+            img.src = URL.createObjectURL(file);
+        }
+    });
+</script>

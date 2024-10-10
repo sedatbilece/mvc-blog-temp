@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\sedat\source\repos\sedatbilece\CoreMvcTemplate\CoreMvcTemplate\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-07T07:01:20.7794271Z;True|2024-09-03T20:57:38.5696257+03:00;True|2024-08-19T20:35:15.6508567+03:00;True|2024-08-19T20:28:24.0974469+03:00;True|2024-08-03T14:18:20.6081804+03:00;True|2024-07-27T19:56:04.6583933+03:00;True|2024-07-14T22:13:34.8829974+03:00;True|2024-07-06T20:29:54.4502067+03:00;True|2024-07-06T20:15:29.7565749+03:00;True|2024-07-06T19:10:29.2662177+03:00;True|2024-07-06T19:10:20.4856218+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

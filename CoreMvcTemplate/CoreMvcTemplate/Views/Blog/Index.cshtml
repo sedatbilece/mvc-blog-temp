@@ -1,0 +1,46 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Helpers;
+@{
+   
+}
+@model List<Blog>
+
+
+
+<!--===== Blog starts=======-->
+<div class="blog9-section-area section-padding8 welcome9-section-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 m-auto">
+                <div class="blog9-header text-center margin-b60">
+                    <h1 class="font-lora font-44 lineh-54 weight-600 colorh9">Yazılarımız</h1>
+                </div>
+            </div>
+        </div>
+
+        @foreach(var item in Model)
+        {
+            <div class="row">
+                <div class="col-lg-12 col-md-12" data-aos="zoom-out"
+                     data-aos-easing="linear"
+                     data-aos-duration="1000">
+                    <div class="blog9-boxarea d-flex align-items-start">
+
+                        <div class="blog1-text">
+                            <img src="@item.HeadImageUrl" alt="" class="ts w-75 mx-auto me-3"> <!-- Changed w-50 to w-25 and added me-3 for margin -->
+                        </div>
+
+                        <div class="blog9auhtor-texrea">
+                            <a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-lora font-24 lineh-32 weight-600 color-h9 margin-b d-inline-block link-hover ts">@item.Title</a>
+                            <p class="font-16 font-ks lineh-26 weight-500 color-h9 margin-b ts">@item.Content ...</p>
+                            <a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 lineh-16 weight-700 color-h9 ts">Daha Fazlası<span class="ml1"><i class="fa-solid fa-arrow-right"></i></span></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+<!--===== Blog ends=======-->

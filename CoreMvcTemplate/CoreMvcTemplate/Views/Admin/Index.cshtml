@@ -1,0 +1,136 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="~/chartjs/chart-apex.css">
+<link rel="stylesheet" type="text/css" href="~/chartjs/apexcharts.css">
+
+
+<h3 class="m-2 mt-4 text-center">Admin Kontrol Paneli</h3>
+
+
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm m-2">
+                <div class="card" >
+                    <div class="card-body">
+                        <h5 class="card-title">Aktif/Pasif Yazılar</h5>
+                        <div id="chart1"></div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Kurumsal/Blog Yazıları</h5>
+                        <div id="chart2"></div>
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="col-sm m-2">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Diğer Sayfa Bilgileri</h5>
+                        <div id="chart3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+
+<script src="~/chartjs/chart-apex.js"></script>
+<script src="~/chartjs/apexcharts.js"></script>
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        $.get("/api/Statistics/" , function (result, status, jqXHR) { 
+        
+            var options = {
+                series: result.activePassiveBlogValues,
+                colors: ['#96CEB4', '#A02334'],
+                chart: {
+                    width: 350,
+                    type: 'pie',
+                },
+                labels: result.activePassiveBlogKeys,
+                responsive: [{
+                    breakpoint: 480,
+                    options: {
+                        chart: {
+                            width: 200
+                        },
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }]
+            };
+            var chart = new ApexCharts(document.querySelector("#chart1"), options);
+            chart.render();
+
+
+
+            var options = {
+                series: result.blogCorpTypeValues,
+                colors: ['#36C2CE', '#E68369'],
+                chart: {
+                    width: 350,
+                    type: 'pie',
+                },
+                labels: result.blogCorpTypeKeys,
+                responsive: [{
+                    breakpoint: 480,
+                    options: {
+                        chart: {
+                            width: 200
+                        },
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }]
+            };
+            var chart = new ApexCharts(document.querySelector("#chart2"), options);
+            chart.render();
+
+
+            var options = {
+                series: result.otherPageInfoValues,
+                colors: ['#9DDE8B', '#40A578', '#006769'],
+                chart: {
+                    width: 350,
+                    type: 'pie',
+                },
+                labels: result.otherPageInfoKeys,
+                responsive: [{
+                    breakpoint: 480,
+                    options: {
+                        chart: {
+                            width: 200
+                        },
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }]
+            };
+
+            var chart = new ApexCharts(document.querySelector("#chart3"), options);
+            chart.render();
+
+
+        });// $get end
+    
+     });
+
+        
+
+    
+</script>

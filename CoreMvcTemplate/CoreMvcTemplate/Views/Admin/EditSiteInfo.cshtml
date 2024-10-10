@@ -1,0 +1,111 @@
+﻿@using CoreMvcTemplate.Models.LandingPages;
+@using CoreMvcTemplate.Helpers;
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+@model EditLandingPageViewModel
+
+<style>
+    .dangerField {
+        color: red;
+    }
+</style>
+
+
+
+<div class="p-4">
+    <div class="d-flex justify-content-between align-items-center width-full">
+        <div class="p-2">
+            <h3 class="box-title">Pazar Yeri Düzenle</h3>
+        </div>
+        <div class="p-2">
+        </div>
+    </div>
+
+
+    <form asp-action="EditSiteInfo" asp-controller="Admin" method="post" enctype="multipart/form-data">
+        <div class="box-body">
+
+            <input asp-for="Id" value="@Model.Id" hidden />
+
+
+            <div class="form-group mb-3">
+                <label>Firma Adı <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="FirmName">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Firma Başlığı (Tabbar için) <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="FirmTitle">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Firma Açıklaması (Kısa) <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="FirmDesc">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Telefon 1 <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Phone1" placeholder="05xx xxx xx xx">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Telefon 2 <span class="dangerField">  </span></label>
+                <input type="text" class="form-control" asp-for="Phone2" placeholder="05xx xxx xx xx">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Mail 1 <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Mail1" placeholder="info@firm.com">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Mail 2 <span class="dangerField">  </span></label>
+                <input type="text" class="form-control" asp-for="Mail2" placeholder="info@firm.com">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Adres 1 <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Address1">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Adres 2 <span class="dangerField">  </span></label>
+                <input type="text" class="form-control" asp-for="Address2">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Google Maps Url  <span class="dangerField">  </span></label>
+                <input type="text" class="form-control" asp-for="MapsUrl">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Linkekin<span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Linkedin">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Facebook<span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Facebook">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Instagram<span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Instagram">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Twitter<span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Twitter">
+            </div>
+
+
+
+        </div><!-- /.box-body -->
+
+        <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Düzenle</button>
+        </div>
+    </form>
+</div>

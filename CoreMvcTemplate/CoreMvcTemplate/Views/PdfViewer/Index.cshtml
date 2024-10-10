@@ -1,0 +1,46 @@
+﻿@using CoreMvcTemplate.Entities
+@using CoreMvcTemplate.Helpers
+@{
+}
+
+@model List<PdfFile>
+
+    <style>
+    .margindiv {
+        margin-top: 100px;
+
+    }
+    </style>
+
+
+<!--===== PDF STARTS=======-->
+<div class="preview-homepages section-padding8 welcome9-section-area" id="demo">
+    <div class="container margindiv">
+        <div class="row">
+            <div class="col-lg-5 m-auto">
+                <div class="homepages-header text-center margin-b60">
+                    <h1 class="font-outfit font-44 lineh-52 weight-600 color-1 ">Belge ve Sertifikalarımız</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach(var item in Model)
+            {
+                <div class="col-lg-4  col-md-6" data-aos-easing="linear" data-aos="zoom-in" data-aos-duration="800">
+                    <div class="preview-homepagesarea">
+                        <div class="preview-hom1">
+                            <img src="@item.CoverImageUrl" alt="">
+                        </div>
+                        <div class="prewhome-btn">
+                            <a href="/dosyalar/@UrlExtension.FriendlyUrl(item.SeoName)" class="font-outfit font-16 lineh-18 weight-600 colorhp9 d-inline-block singlebtn">Oku <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <a href="/dosyalar/@UrlExtension.FriendlyUrl(item.SeoName)" class="text-center font-outfit font-20 lineh-24 weight-600 colorhp9 d-inline-block lawconsulting">@item.Name</a>
+                </div>
+            }
+            
+            
+        </div>
+    </div>
+</div>
+<!--===== PDF END=======-->

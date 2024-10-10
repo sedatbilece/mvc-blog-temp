@@ -1,0 +1,61 @@
+﻿@using CoreMvcTemplate.Entities
+
+@model PdfFile
+
+<style>
+    .pdfcontainer{
+        width:60vw;
+        height:80vh;
+
+    }
+
+    .wrapper-div {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .margindiv{
+        margin-top:150px;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<script src='~/pdfjs-lib/webviewer.min.js'></script>
+
+
+
+<div class="wrapper-div contact1-section-area">
+    <div class="margindiv">
+        <h5>@Model.Name</h5>
+        <div id='viewer' class="pdfcontainer"></div>
+    </div>
+    
+</div>
+
+
+
+<script>
+    WebViewer({
+        path: '../pdfjs-lib', 
+        licenseKey: '@TempData["LicenceKey"]',
+        initialDoc: '../files/@Model.SeoName'+'.pdf',
+       
+    }, document.getElementById('viewer'))
+        .then(instance => {
+            
+            const { Core, UI } = instance;
+
+            
+            Core.documentViewer.addEventListener('documentLoaded', () => {
+                console.log('document loaded');
+            });
+
+            
+            Core.documentViewer.addEventListener('pageNumberUpdated', (pageNumber) => {
+                console.log(`Page number is: ${pageNumber}`);
+            });
+        });
+</script>

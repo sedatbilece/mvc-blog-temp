@@ -1,0 +1,161 @@
+﻿@{
+    TempData["Title"] = "AnaSayfa";
+}
+@using CoreMvcTemplate.Helpers
+@using CoreMvcTemplate.Models.Home
+@model LandingPageViewModel
+
+<!--=====welcome starts=======-->
+<div class="welcome9-section-area">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5" data-aos="fade-left" data-aos-duration="1000">
+                <div class="header9-textarea">
+
+                    <h1 class="font-lora font-48 lineh-54 weight-600 colorh9 margin-b24" data-aos="fade-left" data-aos-duration="1200">@Model.Sliders.FirstOrDefault()?.Title1</h1>
+                    <p class="font-16 font-ks weight-500 color-p2 lineh-26">@Model.Sliders.FirstOrDefault()?.Title2</p>
+
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="others-author-area9 aniamtion-key-2">
+                    <img src="~/template/assets/images/elementor/elementor58.png" alt="" class="aniamtion-key-2 animation8class">
+                    <p class="font-ks font-20 lineh-26 weight-600 color-h9">Elevate Çözümleri</p>
+                    <div class="welcome9-author" data-aos="zoom-in" data-aos-duration="1000">
+                        <img src="~/template/assets/images/elementor/ball8.png" alt="" class="header9" style="width:16px">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="welconme8-imga" data-aos="zoom-out" data-aos-duration="1400">
+                    <img src="@Model.Sliders.FirstOrDefault()?.ImageUrl" alt="" class="welcome9">
+
+                    <!-- görsel etrafındaki 4lü keyler -->
+                    <div class="others9-type aniamtion-key-1">
+                        <div class="groupexpo">
+                            <img src="~/template/assets/images/icons/servicepreview3.png" alt="">
+                        </div>
+                        <p class="font-16 font-ks lineh-16 weight-600 color-h9">Modüler Yaşam</p>
+                    </div>
+
+                    <div class="others9-type otherstype9 aniamtion-key-2">
+                        <div class="groupexpo">
+                            <img src="~/template/assets/images/icons/service9icon6.png" alt="">
+                        </div>
+                        <p class="font-16 font-ks lineh-16 weight-600 color-h9">Güvenli Yapılar</p>
+                    </div>
+
+
+                    <div class="otherstype10" data-aos="fade-left"
+                         data-aos-easing="linear"
+                         data-aos-duration="800">
+                        <div class="groupexpo">
+                            <img src="~/template/assets/images/icons/estata1.png" alt="">
+                        </div>
+                        <p class="font-16 font-ks lineh-16 weight-600 color-h9">Yüksek Kalite</p>
+                    </div>
+
+
+                    <div class="otherstype11" data-aos="fade-left"
+                         data-aos-easing="linear"
+                         data-aos-duration="1000">
+                        <div class="groupexpo">
+                            <img src="~/template/assets/images/icons/brief3.png" alt="">
+                        </div>
+                        <p class="font-16 font-ks lineh-16 weight-600 color-h9">Güvenli İnşa</p>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="~/template/assets/images/elementor/elementor56.png" alt="" class="elementors18s">
+    <img src="~/template/assets/images/elementor/elementor57.png" alt="" class="elementors19">
+</div>
+<!--===== welcome ends=======-->
+
+<!--===== Service starts=======-->
+<div class="service9-section-area section-padding8">
+    <img src="~/template/assets/images/elementor/elementor59.png" alt="" class="elementors59">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 m-auto">
+                <div class="service9-header margin-b60 text-center">
+                    <h1 class="font-lora font-44 lineh-54 weight-600 colorh9">Pazar Yerlerimiz </h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+
+            @foreach(var item in Model.MarketPlaces)
+            {
+                <div class="col-lg-4 col-md-6" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="service9-boxarea margin-b30">
+                        <div class="service9-images">
+                            <img src="@item.ImageUrl" alt="">
+                        </div>
+                        <div class="service9-texreas">
+                            <a href="@item.RedirectUrl" target="_blank" class="font-lora font-24 weight-600 lineh-26 color-h9 margin-b d-inline-block ts">@item.Name</a>
+                            <p class="font-16 font-ks weight-500 colorhp1 lineh-26 ts">@item.Title</p>
+                            <a href="@item.RedirectUrl" target="_blank" class="learnservices margin-t28 d-inline-block font-ks lineh-16 ts weight-700 color-h9">Mağazaya Git <span><i class="fa-solid fa-arrow-right ml1"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+            }
+            
+
+
+
+        </div>
+    </div>
+    <img src="~/template/assets/images/elementor/elementor60.png" alt="" class="elementors60">
+</div>
+<!--===== Service ends=======-->
+
+<!--===== Blog starts=======-->
+<div class="blog9-section-area section-padding8">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 m-auto">
+                <div class="blog9-header text-center margin-b60">
+
+                    <h1 class="font-lora font-44 lineh-54 weight-600 colorh9">Yazılarımız</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            @foreach (var item in Model.Blogs)
+            {
+                <div class="col-lg-6  col-md-6" data-aos="zoom-out"
+                     data-aos-easing="linear"
+                     data-aos-duration="1000">
+                    <div class="blog9-boxarea">
+                        <div class="blog9-authorarea">
+                            <img src="@item.HeadImageUrl" alt="">
+                        </div>
+                        <div class="blog9auhtor-texrea">
+                            <div class="blog1-text"> 
+                                <img src="~/template/assets/images/icons/vector1.png" alt="" class="ts">
+                                <p class="font-ks font-16 weight-500 color-h7 lineh-26 ts">@item.CreatedAt.ToString("dd/MM/yyyy")</p>
+                            </div>
+                            <a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-lora font-24 lineh-32 weight-600 color-h9 margin-b d-inline-block link-hover ts">@item.Title</a>
+                            <p class="font-16 font-ks lineh-26 weight-500 color-h9 margin-b ts">@item.Content ...</p>
+                            <a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 lineh-16 weight-700 color-h9 ts">Daha Fazlası<span class="ml1"><i class="fa-solid fa-arrow-right"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+            }
+            
+
+
+
+        </div>
+    </div>
+</div>
+<!--===== Blog ends=======-->
+

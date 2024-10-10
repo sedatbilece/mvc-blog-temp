@@ -1,0 +1,45 @@
+﻿@using CoreMvcTemplate.Models.Layout
+@using CoreMvcTemplate.Helpers
+@model HeaderViewModel
+
+<style>
+    .someSpace{
+        margin-top:10vh !important;
+    }
+</style>
+
+<!--===== PRODUCTS STARTS=======-->
+<div class="team-innerpages-area section-padding8 welcome9-section-area">
+    <div class="container someSpace">
+        <h1 class="font-lora font-48 lineh-52 color-29 weight-600 margin-b60 text-center">Ürünlerimiz</h1>
+        <div class="row">
+
+            @foreach(var item in Model.Products)
+            {
+                <div class="col-lg-4">
+                    <div class="testimonial-autor-area bginner">
+                        <a href="/urunler/@UrlExtension.FriendlyUrl(item.SeoTitle)">
+                            <img src="@item.ImageUrl" alt="">
+                        </a>
+                      
+                        <div class="border-4 margin-b24"></div>
+                        <div class="mans-author">
+
+                            <div class="names-text">
+                                <h5 class="font-lora font-24 lineh-24 color-29 weight-600 margin-b12"><a href="/urunler/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="color-29">@item.Title</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            }
+
+            
+
+
+
+        </div>
+    </div>
+</div>
+<!--===== PRODUCTS END=======-->

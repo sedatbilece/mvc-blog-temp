@@ -1,0 +1,23 @@
+﻿@using CoreMvcTemplate.Entities
+
+@model LandingPage
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="~/site-images/favicon-32x32.png" />
+
+@if (TempData["Title"] != null)
+{
+    <title>@Model.FirmTitle | @TempData["Title"] </title>
+}
+else
+{
+    <title>@Model.FirmTitle </title>
+}
+<meta name="description" content="Elevate Description">
+<meta name="keywords" content="Elevate Keywords">
+<link rel="canonical" href="https://elevate.net.tr/">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Elevate İç ve Dış Ticaret Limited Şirketi">
+<meta name="publisher" content="Elevate İç ve Dış Ticaret Limited Şirketi">
+<meta name="language" content="tr">

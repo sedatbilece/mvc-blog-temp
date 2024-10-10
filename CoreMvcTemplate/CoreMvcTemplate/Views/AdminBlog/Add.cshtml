@@ -1,0 +1,123 @@
+﻿@using CoreMvcTemplate.Models.Blog;
+@using CoreMvcTemplate.Helpers;
+@using CoreMvcTemplate.Entities.Enums
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+@model AddBlogViewModel
+
+
+<style>
+    .dangerField {
+        color: red;
+    }
+</style>
+
+<link type="text/css" href="~/ckeditor5/sample/css/sample.css" rel="stylesheet" media="screen" />
+
+<div class="p-4">
+    <div class="d-flex justify-content-between align-items-center width-full">
+        <div class="p-2">
+            <h3 class="box-title">Sayfa Ekle</h3>
+        </div>
+        <div class="p-2">
+            
+        </div>
+    </div>
+
+
+    <form asp-action="Add" asp-controller="AdminBlog" method="post" enctype="multipart/form-data">
+        <div class="box-body">
+
+            <div class="form-group mb-3">
+                <label>Başlık <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="Title">
+            </div>
+            <div class="form-group mb-3">
+                <label>Seo Başlığı <span class="dangerField"> * </span></label>
+                <input type="text" class="form-control" asp-for="SeoTitle">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Detay</label>
+                <input type="text" class="form-control" asp-for="Detail">
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Görüntülenme Sırası</label>
+                <input type="text" class="form-control" asp-for="DisplayOrder">
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="PageType" class="control-label"></label>
+                <select asp-for="PageType" class="form-control" asp-items="@(Html.GetEnumSelectList<PageType>())"></select>
+                <span asp-validation-for="PageType" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label>İçerik</label>
+                <textarea id="editor" class="form-control" rows="20" placeholder=" ..." asp-for="Content"></textarea>
+            </div>
+
+            <div class="radio">
+                <label>
+                    <input type="radio" asp-for="isActive" id="isActive1" value="true" checked>
+                    Aktif
+
+                </label>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" asp-for="isActive" id="isActive2" value="false">
+                    Pasif
+                </label>
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Başlık Görseli <span class="dangerField"> (1170x768px) </span></label>
+                <input type="file" id="BackgroundImageFile" name="BackgroundImageFile" class="btn btn-dark">
+            </div>
+
+            
+
+        </div><!-- /.box-body -->
+
+        <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Ekle</button>
+        </div>
+    </form>
+</div>
+
+<script src="~/ckeditor5/ckeditor.js"></script>
+<script>
+    ClassicEditor
+        .create(document.querySelector('#editor'), {
+
+            ckfinder: {
+                uploadUrl: '/upload/image'
+            }
+        })
+        .then(editor => {
+            window.editor = editor;
+        })
+        .catch(err => {
+            console.error(err.stack);
+        });
+
+    document.getElementById('BackgroundImageFile').addEventListener('change', function (event) {
+        var file = event.target.files[0];
+        if (file) {
+            var img = new Image();
+            img.onload = function () {
+                var width = img.width;
+                var height = img.height;
+                var size = (file.size / 1024).toFixed(2); // size in KB
+                var type = file.type;
+
+                alert('Yüklenen Görselin Temel Bilgileri \n Boyut: ' + size + ' KB\n En-Boy: ' + width + 'x' + height + '\n Tip: ' + type);
+            };
+            img.src = URL.createObjectURL(file);
+        }
+    });
+</script>

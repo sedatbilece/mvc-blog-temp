@@ -1,0 +1,82 @@
+﻿@using CoreMvcTemplate.Models.Layout
+@using CoreMvcTemplate.Helpers
+@model FooterViewModel
+
+
+<style>
+    .logoWidth {
+        max-width: 200px;
+    }
+</style>
+
+<!--===== FOOTER STARTS=======-->
+<div class="footer9-section-area6">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="footer4-all-area footer6 section-padding15">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="footer-3logo logoWidth">
+                                <img src="~/site-images/logo-hr-male.png" alt="">
+                                <p class="font-nunito font-16 lineh-26 color-nuni margin-t margin-b24"> @Model.LandingPage.FirmDesc</p>
+                            </div>
+                            <div class="social3-links-area list9area">
+                                <ul>
+                                    <li><a href="@Model.LandingPage.Linkedin" class="ml1"><i class="fa-brands fa-linkedin"></i></a></li>
+                                    <li><a href="@Model.LandingPage.Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                    <li><a href="@Model.LandingPage.Instagram" class="ml1"><i class="fa-brands fa-square-instagram"></i></a></li>
+                                    <li><a href="@Model.LandingPage.Twitter" class="ml1"><i class="fa-brands fa-twitter"></i></a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="contcat4-footer">
+                                <h1 class="font-20 lineh-20 font-lora weight-600 color-ni">İletişim</h1>
+
+                                <div class="location-icon4 margin-t32">
+                                    <div class="image5">
+                                        <img src="~/template/assets//images/icons/email5.png" alt="">
+                                    </div>
+                                    <a href="mailto:@Model.LandingPage.Mail1" class="font-ks font-16 lineh-24 weight-500 colorhp1">@Model.LandingPage.Mail1</a>
+                                    @if (!string.IsNullOrEmpty(Model.LandingPage.Mail2))
+                                    {
+                                        <br />
+                                        <a href="mailto:@Model.LandingPage.Mail2" class="font-ks font-16 lineh-24 weight-500 colorhp1">@Model.LandingPage.Mail2</a>
+                                    }
+                                </div>
+
+                                <div class="location-icon4 margin-t">
+                                    <div class="imgge5">
+                                        <img src="~/template/assets//images/icons/location4.svg" alt="">
+                                    </div>
+                                    <a href="#" class="font-ks font-16 lineh-24 weight-500 colorhp1">@Model.LandingPage.Address1  <br /> @Model.LandingPage.Address2</a>
+                                </div>
+                                <div class="location-icon4 margin-t">
+                                    <div class="image5">
+                                        <img src="~/template/assets//images/icons/phone7.svg" alt="">
+                                    </div>
+                                    <a href="tel:@Model.LandingPage.Phone1" class="font-ks font-16 lineh-24 weight-500 colorhp1">@Model.LandingPage.Phone1 </a>
+                                    @if (!string.IsNullOrEmpty(Model.LandingPage.Phone2))
+                                    {
+                                        <br />
+                                    <a href="tel:@Model.LandingPage.Phone2" class="font-ks font-16 lineh-24 weight-500 colorhp1">@Model.LandingPage.Phone2</a>
+                                    }
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="border7"></div>
+                <div class="copyright4 text-center">
+                    <p class="font-16 font-nunito color-28 weight-500 ">Copyright 2024 <a class="font-ks font-16 lineh-24 weight-500 colorhp1" href="https://elevate.net.tr/">Elevate İç ve Dış Ticaret Limited Şirketi</a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="~/template/assets//images/elementor/elementor41.png" alt="" class="elementor61">
+    <img src="~/template/assets//images/elementor/elementor42.png" alt="" class="elementors62">
+</div>
+<!--===== FOOTER END=======-->

@@ -1,0 +1,209 @@
+﻿
+@using CoreMvcTemplate.Helpers
+@using CoreMvcTemplate.Models.Layout
+@using CoreMvcTemplate.Models.Products;
+@model HeaderViewModel
+
+<style>
+    .logoWidth{
+        max-width:200px;
+    }
+</style>
+
+<!--=====HEADER =======-->
+<header class="header about-bg d-none d-lg-block">
+    <div class="header-area header" id="header">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <div class="header-elements">
+                        <div class="site-logo logoWidth">
+                            <a asp-action="Index" asp-controller="Home"><img src="~/site-images/logo-hr-male.png" alt=""></a>
+                        </div>
+                        <div class="main-menu-ex homepage5 homepage9">
+                            <ul>
+                                <li><a asp-action="Index" asp-controller="Home" class="font-ks font-16 weight-500 color-1">AnaSayfa</a></li>
+                                <li>
+                                    <a href="#" class="font-ks font-16 weight-500 color-1">Kurumsal <span><i class="fa-solid fa-angle-down"></i></span></a>
+                                    <ul>
+
+                                        @foreach(var item in Model.Corporates)
+                                        {
+                                            <li><a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color-1">@item.Title</a></li>
+                                        }
+                                        
+                                    </ul>
+                                </li>   
+                                <li>
+                                    <a href="/blog/" class="font-ks font-16 weight-500 color-1">Yazılar <span><i class="fa-solid fa-angle-down"></i></span></a>
+                                    <ul>
+                                        @foreach (var item in Model.Blogs)
+                                        {
+                                            <li><a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color-1">@item.Title</a></li>
+                                        }
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/urunler/" class="font-ks font-16 weight-500 color-1">Ürünler <span><i class="fa-solid fa-angle-down"></i></span></a>
+                                    <ul>
+                                        @foreach (var item in Model.Products)
+                                        {
+                                            <li><a href="/urunler/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color-1">@item.Title</a></li>
+                                        }
+
+                                    </ul>
+                                </li>                          
+                                <li><a href="/yayinlar" class="font-ks font-16 weight-500 color-1">Belge ve Sertifikalar</a></li>
+                                <li><a href="/iletisim" class="font-ks font-16 weight-500 color-1">İletişim</a></li>
+
+                            </ul>
+                        </div>
+                        <div class="contact-3 d-lg-block d-none ml-1">
+                            <div class="all-3-btn theme-btn " id="whatsapp-link">
+                                <a href="#" class="font-16 font-ks weight-700 color lineh-16 consulting9"><span id="firm-number">@Model.LandingPage.Phone1</span> <i class="fa-brands fa-whatsapp"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--=====HEADER END=======-->
+
+<!--=====Mobile header start=======-->
+<div class="mobile-header mobile-header-4 d-block d-lg-none homepagesmall">
+    <div class="container-fluid">
+        <div class="col-12">
+            <div class="mobile-header-elements">
+                <div class="mobile-logo logoWidth">
+                    <a href="index.html"><img src="~/site-images/logo-hr-female.png" alt=""></a>
+                </div>
+                <div class="mobile-nav-icon dots-menu">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mobile-sidebar">
+    <div class="logoicons-area">
+        <div class="logos logoWidth">
+            <img src="~/site-images/logo-hr-female.png" alt="">
+        </div>
+        <div class="menu-close">
+            <i class="fa-solid fa-xmark"></i>
+        </div>
+    </div>
+    <div class="mobile-nav">
+
+        <ul class="mobile-nav-list">
+
+            <li><a href="about.html" class="font-ks font-18 weight-600 color">AnaSayfa</a></li>
+
+            <li>
+                <a href="#" class="font-ks font-16 weight-500 color">Kurumsal </a>
+                <ul class="sub-menu">
+                    @foreach (var item in Model.Corporates)
+                    {
+                        <li><a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color">@item.Title</a></li>
+                    }
+                </ul>
+            </li>
+            <li>
+                <a href="/blog/" class="font-ks font-16 weight-500 color">Yazılar </a>
+                <ul class="sub-menu">
+                    @foreach (var item in Model.Blogs)
+                    {
+                        <li><a href="/blog/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color">@item.Title</a></li>
+                    }
+
+                </ul>
+            </li>
+            <li>
+                <a href="/urunler/" class="font-ks font-16 weight-500 color">Ürünler </a>
+                <ul class="sub-menu">
+
+                    @foreach (var item in Model.Products)
+                    {
+                        <li><a href="/urunler/@UrlExtension.FriendlyUrl(item.SeoTitle)" class="font-ks font-16 weight-500 color">@item.Title</a></li>
+                    }
+
+                </ul>
+            </li>
+            <li><a href="/yayinlar" class="font-ks font-16 weight-500 color">Belge ve Sertifikalar</a></li>
+            <li><a href="/iletisim" class="font-ks font-16 weight-500 color">İletişim</a></li>
+
+        </ul>
+        <div class="allmobilesection">
+            <div class="single-footer single-footer-menu single-footer4">
+                <h3 class="font-ks font-24 lineh-24 weight-600 color margin-b margin-t24">İletişim Bilgileri</h3>
+                <div class="footer4-contact-info">
+                    <div class="contact-info-single">
+                        <div class="contact-info-icon">
+                            <img src="~/template/assets/images/icons/phone5.svg" alt="">
+                        </div>
+                        <div class="contact-info-text">
+                            <a href="tel:@Model.LandingPage.Phone1" class="font-ks font-16 lineh-26 weight-500 color-21">@Model.LandingPage.Phone1</a>
+                            @if (!string.IsNullOrEmpty(Model.LandingPage.Phone2))
+                            {
+                                <br />
+                                <a href="tel:@Model.LandingPage.Phone2" class="font-ks font-16 lineh-26 weight-500 color-21">@Model.LandingPage.Phone2</a>
+                            }
+                            
+                        </div>
+                    </div>
+
+                    <div class="contact-info-single">
+                        <div class="contact-info-icon">
+                            <img src="~/template/assets/images/icons/email4.svg" alt="">
+                        </div>
+                        <div class="contact-info-text">
+                            <a href="mailto:@Model.LandingPage.Mail1" class="font-ks font-16 lineh-26 weight-500 color-21">@Model.LandingPage.Mail1</a>
+                            @if (!string.IsNullOrEmpty(Model.LandingPage.Mail2))
+                            {
+                                <br />
+                                <a href="tel:@Model.LandingPage.Mail2" class="font-ks font-16 lineh-26 weight-500 color-21">@Model.LandingPage.Mail2</a>
+                            }
+                        </div>
+                    </div>
+
+                    <div class="single-footer single-footer-menu single-footer4">
+                        <h3 class="font-ks font-24 lineh-24 weight-600 color margin-b margin-t24">Konumumuz</h3>
+
+                        <div class="contact-info-single">
+                            <div class="contact-info-icon">
+                                <img src="~/template/assets/images/icons/location2.png" alt="">
+                            </div>
+                            <div class="contact-info-text">
+                                <a href="#" class="font-ks font-16 lineh-26 weight-500 color-21">@Model.LandingPage.Address1 <br /> @Model.LandingPage.Address2</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!--===== Mobile header end=======-->
+
+
+<script>
+
+        document.getElementById('whatsapp-link').addEventListener('click', function () {
+            var phoneNumber = document.getElementById('firm-number').textContent;
+            var cleanedNumber = '90' + phoneNumber.replace(/\s/g, '');
+            var message = 'Merhaba';
+            console.log(cleanedNumber);
+            var whatsappURL = 'https://api.whatsapp.com/send?phone=' + cleanedNumber + '&text=' + encodeURIComponent(message);
+
+            window.open(whatsappURL, '_blank'); // Bağlantıyı yeni pencerede aç
+        });
+
+</script>

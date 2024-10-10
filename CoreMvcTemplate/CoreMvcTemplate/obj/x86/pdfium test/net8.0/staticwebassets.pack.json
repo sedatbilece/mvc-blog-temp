@@ -1,0 +1,3057 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\obj\\x86\\pdfium test\\net8.0\\scopedcss\\projectbundle\\CoreMvcTemplate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoreMvcTemplate.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\adminTemplate\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\css\\styles.css",
+      "PackagePath": "staticwebassets\\adminTemplate\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\adminTemplate\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\adminTemplate\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor5\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor5\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\ckeditor5\\ckeditor.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\ckeditor5\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor5\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\sample\\css\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor5\\sample\\css\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\sample\\img\\bg.png",
+      "PackagePath": "staticwebassets\\ckeditor5\\sample\\img\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\sample\\img\\github.svg",
+      "PackagePath": "staticwebassets\\ckeditor5\\sample\\img\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\sample\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\ckeditor5\\sample\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\sample\\img\\umbrellas.jpg",
+      "PackagePath": "staticwebassets\\ckeditor5\\sample\\img\\umbrellas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\hy.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ti.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ti.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditor5\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor5\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditorfiles\\hijyenik-led-light.png",
+      "PackagePath": "staticwebassets\\ckeditorfiles\\hijyenik-led-light.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\ckeditorfiles\\sezber-favicon.png",
+      "PackagePath": "staticwebassets\\ckeditorfiles\\sezber-favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\files\\asdasdasd.pdf",
+      "PackagePath": "staticwebassets\\files\\asdasdasd.pdf"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\files\\deneme2.pdf",
+      "PackagePath": "staticwebassets\\files\\deneme2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\files\\images\\asdasdasd.png",
+      "PackagePath": "staticwebassets\\files\\images\\asdasdasd.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\files\\images\\deneme2.png",
+      "PackagePath": "staticwebassets\\files\\images\\deneme2.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\files\\images\\sample.txt",
+      "PackagePath": "staticwebassets\\files\\images\\sample.txt"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\images\\note.txt",
+      "PackagePath": "staticwebassets\\images\\note.txt"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\22.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\22.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\23.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\23.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\AndroidContentPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\AndroidContentPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\ArrayBufferPdfPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\ArrayBufferPdfPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\AzurePartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\AzurePartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\ContentEdit.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\ContentEdit.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\ExternalAnnotationMerger.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\ExternalAnnotationMerger.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\ExternalPdfPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\ExternalPdfPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\HttpPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\HttpPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\IOSPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\IOSPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\LocalPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\LocalPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\LocalPdfPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\LocalPdfPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\PDFInfoVersion1.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\PDFInfoVersion1.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\SelectionInfoOld.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\SelectionInfoOld.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\StreamingPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\StreamingPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\WebDBPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\WebDBPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\WebViewerServerPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\WebViewerServerPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\WinRTPartRetriever.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\WinRTPartRetriever.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\1px.png",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\1px.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\dragginghand.cur",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\dragginghand.cur"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\dragginghand.png",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\dragginghand.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\hand.cur",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\hand.cur"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\hand.png",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\hand.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\mime-types\\test.mem",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\mime-types\\test.mem"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\mime-types\\test.res",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\mime-types\\test.res"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\mime-types\\test.wasm",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\mime-types\\test.wasm"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\mime-types\\test.xod",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\mime-types\\test.xod"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\zoom-in.cur",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\zoom-in.cur"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\assets\\zoom-out.cur",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\assets\\zoom-out.cur"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\Promise.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\Promise.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\decode.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\decode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\model-viewer-1.3.0.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\model-viewer-1.3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\model-viewer-legacy-1.3.0.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\model-viewer-legacy-1.3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\pako_inflate.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\pako_inflate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\pikaday.css",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\pikaday.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\pikaday.override.css",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\pikaday.override.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\quill.css",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\quill.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\external\\webcomponents-bundle.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\external\\webcomponents-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\legacyOffice\\LegacyOfficeWorker.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\legacyOffice\\LegacyOfficeWorker.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\PDFJSDocumentType.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\PDFJSDocumentType.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\UIConfig.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\UIConfig.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78ms-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78ms-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\78ms-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\78ms-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\83pv-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\83pv-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90ms-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90ms-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90ms-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90ms-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90msp-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90msp-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90msp-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90msp-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90pv-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90pv-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\90pv-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\90pv-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Add-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-0.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-0.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-1.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-1.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-3.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-3.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-4.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-4.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-5.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-5.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-6.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-6.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-UCS2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-CNS1-UCS2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-0.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-0.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-1.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-1.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-3.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-3.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-4.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-4.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-5.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-5.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-UCS2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-GB1-UCS2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-0.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-0.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-1.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-1.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-3.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-3.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-4.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-4.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-5.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-5.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-6.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-6.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-UCS2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Japan1-UCS2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-0.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-0.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-1.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-1.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-UCS2.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Adobe-Korea1-UCS2.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5pc-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5pc-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5pc-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\B5pc-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS1-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS1-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS1-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS1-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS2-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS2-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\CNS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETHK-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETHK-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETHK-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETHK-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETen-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETen-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETen-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETen-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETenms-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETenms-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETenms-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\ETenms-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Ext-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GB-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK2K-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK2K-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK2K-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBK2K-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBKp-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBKp-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBKp-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBKp-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBT-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBTpc-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBTpc-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBTpc-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBTpc-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBpc-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBpc-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBpc-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\GBpc-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdla-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdla-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdla-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdla-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdlb-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdlb-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdlb-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKdlb-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKgccs-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKgccs-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKgccs-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKgccs-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm314-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm314-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm314-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm314-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm471-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm471-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm471-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKm471-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKscs-B5-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKscs-B5-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKscs-B5-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\HKscs-B5-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Hankaku.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Hankaku.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Hiragana.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Hiragana.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-Johab-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-Johab-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-Johab-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-Johab-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-HW-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-HW-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-HW-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-HW-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCms-UHC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCpc-EUC-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCpc-EUC-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCpc-EUC-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\KSCpc-EUC-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Katakana.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Katakana.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\LICENSE",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\NWP-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\NWP-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\NWP-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\NWP-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\RKSJ-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\RKSJ-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\RKSJ-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\RKSJ-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\Roman.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\Roman.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UCS2-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UCS2-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UCS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UCS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF16-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF16-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF16-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF16-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF8-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF8-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniCNS-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UCS2-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UCS2-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UCS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UCS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF16-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF16-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF16-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF16-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF8-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF8-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniGB-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-HW-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-HW-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-HW-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-HW-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UCS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF16-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF16-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF16-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF16-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF8-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF8-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF16-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF16-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF16-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF16-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF8-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF8-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJIS2004-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UCS2-HW-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UCS2-HW-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UCS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UCS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISPro-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX0213-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX0213-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX0213-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX0213-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX02132004-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX02132004-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX02132004-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniJISX02132004-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UCS2-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UCS2-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UCS2-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UCS2-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF16-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF16-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF16-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF16-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF32-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF32-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF32-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF32-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF8-H.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF8-H.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF8-V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\UniKS-UTF8-V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\V.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\V.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\cmaps\\WP-Symbol.bcmap",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\cmaps\\WP-Symbol.bcmap"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\pdf.worker.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\pdf.worker.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\pdfjsexpress.asm.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\pdfjsexpress.asm.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\pdfjsexpress.wasm",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\pdfjsexpress.wasm"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\pikaday.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\pikaday.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pdfjs\\vendors.pikaday.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pdfjs\\vendors.pikaday.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\pikaday.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\pikaday.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\vendors.ascii85.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\vendors.ascii85.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\vendors.ascii85.quill.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\vendors.ascii85.quill.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\vendors.pako.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\vendors.pako.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\vendors.quill.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\vendors.quill.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\core\\webviewer-core.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\core\\webviewer-core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\GreatVibes-Regular.woff",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\GreatVibes-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\GreatVibes-Regular.woff2",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\GreatVibes-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Bold.woff",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\Lato-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\Lato-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Italic.woff",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Regular.woff",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\fonts\\Lato-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\assets\\pdftron.ico",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\assets\\pdftron.ico"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\10.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\10.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\10.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\10.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\100.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\100.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\100.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\100.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\101.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\101.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\101.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\101.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\102.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\102.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\102.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\102.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\103.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\103.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\103.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\103.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\104.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\104.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\104.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\104.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\105.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\105.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\105.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\105.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\106.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\106.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\106.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\106.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\107.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\107.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\107.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\107.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\108.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\108.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\108.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\108.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\109.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\109.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\109.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\109.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\11.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\11.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\11.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\11.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\110.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\110.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\110.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\110.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\111.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\111.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\111.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\111.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\112.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\112.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\112.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\112.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\113.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\113.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\113.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\113.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\114.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\114.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\114.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\114.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\115.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\115.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\115.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\115.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\116.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\116.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\116.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\116.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\117.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\117.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\117.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\117.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\118.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\118.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\118.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\118.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\119.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\119.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\119.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\119.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\12.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\12.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\12.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\12.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\120.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\120.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\120.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\120.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\121.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\121.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\121.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\121.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\122.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\122.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\122.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\122.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\123.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\123.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\123.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\123.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\124.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\124.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\124.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\124.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\125.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\125.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\125.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\125.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\126.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\126.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\126.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\126.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\127.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\127.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\127.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\127.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\128.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\128.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\128.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\128.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\129.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\129.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\129.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\129.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\13.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\13.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\13.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\13.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\130.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\130.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\130.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\130.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\131.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\131.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\131.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\131.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\132.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\132.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\132.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\132.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\133.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\133.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\133.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\133.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\134.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\134.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\134.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\134.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\135.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\135.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\135.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\135.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\136.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\136.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\136.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\136.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\137.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\137.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\137.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\137.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\138.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\138.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\138.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\138.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\139.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\139.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\139.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\139.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\14.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\14.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\14.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\14.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\140.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\140.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\140.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\140.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\141.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\141.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\141.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\141.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\142.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\142.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\142.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\142.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\143.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\143.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\143.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\143.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\144.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\144.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\144.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\144.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\145.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\145.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\145.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\145.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\15.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\15.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\15.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\15.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\16.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\16.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\16.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\16.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\17.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\17.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\17.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\17.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\18.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\18.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\18.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\18.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\19.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\19.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\19.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\19.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\2.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\2.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\2.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\2.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\20.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\20.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\20.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\20.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\21.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\21.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\21.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\21.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\22.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\22.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\22.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\22.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\23.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\23.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\23.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\23.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\24.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\24.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\24.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\24.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\25.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\25.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\25.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\25.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\26.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\26.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\26.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\26.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\27.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\27.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\27.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\27.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\28.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\28.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\28.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\28.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\29.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\29.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\29.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\29.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\3.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\3.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\3.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\3.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\30.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\30.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\30.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\30.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\31.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\31.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\31.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\31.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\32.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\32.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\32.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\32.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\33.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\33.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\33.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\33.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\34.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\34.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\34.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\34.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\35.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\35.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\35.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\35.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\36.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\36.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\36.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\36.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\37.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\37.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\37.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\37.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\38.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\38.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\38.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\38.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\39.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\39.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\39.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\39.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\4.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\4.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\4.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\4.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\40.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\40.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\40.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\40.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\41.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\41.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\41.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\41.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\42.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\42.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\42.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\42.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\43.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\43.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\43.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\43.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\44.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\44.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\44.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\44.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\45.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\45.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\45.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\45.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\46.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\46.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\46.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\46.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\47.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\47.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\47.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\47.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\48.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\48.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\48.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\48.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\49.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\49.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\49.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\49.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\5.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\5.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\5.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\5.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\50.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\50.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\50.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\50.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\51.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\51.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\51.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\51.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\52.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\52.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\52.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\52.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\53.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\53.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\53.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\53.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\54.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\54.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\54.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\54.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\55.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\55.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\55.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\55.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\56.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\56.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\56.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\56.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\57.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\57.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\57.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\57.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\58.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\58.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\58.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\58.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\59.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\59.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\59.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\59.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\6.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\6.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\6.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\6.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\60.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\60.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\60.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\60.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\61.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\61.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\61.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\61.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\62.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\62.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\62.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\62.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\63.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\63.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\63.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\63.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\64.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\64.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\64.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\64.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\65.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\65.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\65.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\65.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\66.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\66.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\66.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\66.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\67.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\67.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\67.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\67.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\68.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\68.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\68.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\68.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\69.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\69.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\69.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\69.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\7.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\7.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\7.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\7.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\70.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\70.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\70.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\70.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\71.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\71.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\71.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\71.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\72.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\72.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\72.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\72.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\73.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\73.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\73.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\73.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\74.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\74.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\74.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\74.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\75.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\75.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\75.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\75.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\76.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\76.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\76.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\76.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\77.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\77.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\77.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\77.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\78.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\78.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\78.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\78.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\79.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\79.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\79.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\79.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\8.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\8.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\8.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\8.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\80.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\80.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\80.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\80.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\81.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\81.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\81.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\81.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\82.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\82.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\82.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\82.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\83.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\83.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\83.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\83.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\84.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\84.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\84.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\84.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\85.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\85.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\85.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\85.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\86.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\86.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\86.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\86.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\87.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\87.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\87.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\87.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\88.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\88.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\88.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\88.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\89.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\89.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\89.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\89.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\9.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\9.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\9.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\9.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\90.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\90.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\90.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\90.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\91.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\91.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\91.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\91.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\92.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\92.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\92.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\92.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\93.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\93.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\93.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\93.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\94.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\94.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\94.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\94.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\95.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\95.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\95.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\95.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\96.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\96.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\96.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\96.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\97.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\97.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\97.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\97.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\98.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\98.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\98.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\98.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\99.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\99.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\99.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\99.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\vendors.html2canvas.chunk.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\vendors.html2canvas.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\chunks\\vendors.html2canvas.chunk.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\chunks\\vendors.html2canvas.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\configorigin.txt",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\configorigin.txt"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-bn.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-bn.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-cs.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-cs.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-de.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-de.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-el.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-el.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-en.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-en.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-es.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-es.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-fr.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-fr.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-hi.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-hi.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-hu.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-hu.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-id.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-id.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-it.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-it.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-ja.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-ja.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-ko.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-ko.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-ms.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-ms.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-nl.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-nl.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-pl.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-pl.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-pt_br.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-pt_br.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-ro.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-ro.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-ru.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-ru.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-sv.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-sv.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-th.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-th.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-tr.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-tr.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-uk.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-uk.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-vi.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-vi.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-zh_cn.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-zh_cn.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\i18n\\translation-zh_tw.json",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\i18n\\translation-zh_tw.json"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\index.html",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\style.css",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\style.css.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\webviewer-ui.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\webviewer-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\ui\\webviewer-ui.min.js.map",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\ui\\webviewer-ui.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\pdfjs-lib\\webviewer.min.js",
+      "PackagePath": "staticwebassets\\pdfjs-lib\\webviewer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design1.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design2.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design3.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design4.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design5.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design6.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design7.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\design8.jpeg",
+      "PackagePath": "staticwebassets\\site-images\\design8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\favicon.png",
+      "PackagePath": "staticwebassets\\site-images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\site-images\\logo.png",
+      "PackagePath": "staticwebassets\\site-images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\chosen.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\dreaming-attribute.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\dreaming-attribute.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\jquery.scrollbar.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\jquery.scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\megamenu.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\chosen.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\chosen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\countdown.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\mobilemenu.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\mobilemenu.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\sedat\\source\\repos\\sedatbilece\\CoreMvcTemplate\\CoreMvcTemplate\\wwwroot\\template\\assets\\js\\threesixty.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\threesixty.min.js"
+    },
+    {
+      "Id": "obj\\x86\\pdfium test\\net8.0\\staticwebassets\\msbuild.CoreMvcTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\x86\\pdfium test\\net8.0\\staticwebassets\\msbuild.build.CoreMvcTemplate.props",
+      "PackagePath": "build\\CoreMvcTemplate.props"
+    },
+    {
+      "Id": "obj\\x86\\pdfium test\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMvcTemplate.props",
+      "PackagePath": "buildMultiTargeting\\CoreMvcTemplate.props"
+    },
+    {
+      "Id": "obj\\x86\\pdfium test\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreMvcTemplate.props",
+      "PackagePath": "buildTransitive\\CoreMvcTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
